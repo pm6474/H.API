@@ -123,6 +123,7 @@
 			"string"
 		],
 		"lastUpdated": "string",
+		"publishedRecordUrl": "string",
 		"delete": boolean
 	}
 }
